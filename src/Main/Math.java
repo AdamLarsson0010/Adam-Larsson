@@ -9,5 +9,5 @@ public class Math {
     public double sub(double first, double second){
         double sum = first - second;
         return sum;
-    }
+}
 }
